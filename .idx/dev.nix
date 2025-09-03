@@ -45,3 +45,4 @@
     };
   };
 }
+npx run web -- --tunel
